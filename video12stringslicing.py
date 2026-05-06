@@ -1,0 +1,13 @@
+names="Prakriti,Pranil"
+print(names[0:15])
+print(len(names))
+fruit="Mango"
+print(fruit[0:5])
+mangolen=len(fruit)
+print(mangolen)
+print(fruit[0:4])
+print(fruit[:4])
+print(fruit[0:-3])
+print(fruit[-3:-1])
+nm="Harry"
+print(nm[-4:-2])

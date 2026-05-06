@@ -1,0 +1,17 @@
+from datetime import datetime
+now=datetime.now()
+formatted_time=now.strftime("%Y-%m-%d %H:%M:%S")
+print(formatted_time)
+formatted_time=now.strftime("%Y")
+print(formatted_time)
+formatted_time=now.strftime("%m")
+print("formatted_time")
+formatted_time=now.strftime("%d")
+print("formatted_time")
+formatted_time=now.strftime("%H")
+print(formatted_time)
+formatted_time=now.strftime("%M")
+print("formatted_time")
+formatted_time=now.strftime("%D")
+print("formatted_time")
+

@@ -1,0 +1,16 @@
+l=[1,22,53,4,5]
+print(l)
+l.append(7)
+print(l)
+l.sort()
+print(l)
+l.sort(reverse=True)
+print(l)
+m=l.copy()
+m[0]=0
+print(l)
+l.insert(1,799)
+print(l)
+m=[100,101,102]
+l.extend(m)
+print(l)
