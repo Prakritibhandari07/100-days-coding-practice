@@ -1,5 +1,4 @@
 #Library Management Software in Python
-#Question in video-64
 
 class Library:
     def __init__(self):
