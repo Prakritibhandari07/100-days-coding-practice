@@ -1,5 +1,6 @@
 #Getters in python are methods that are used to access the values of an object properties.
 
+
 class MyClass:
     def __init__(self,value):
        self._value=value
