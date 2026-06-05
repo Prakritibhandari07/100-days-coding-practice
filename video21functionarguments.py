@@ -1,3 +1,5 @@
+# AVERAGE OF TWO NUMBERS.
+
 def average(a,b):
     print("The average is",(a+b)/2)
 average(5,4)    
