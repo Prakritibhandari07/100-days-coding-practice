@@ -1,17 +1,19 @@
-# a="3"
-# b="4"
-# print(int(a)+int(b))
-# c=5
-# d=4
-# print(c+d)
-# #Implict type conversion
-# e=5
-# f=5.5
-# print(e+f)
+#typecasting
 
-# from math import *
-# #*- import everything that's inside maths
-# print(sqrt(100))
+a="3"
+b="4"
+print(int(a)+int(b))
+c=5
+d=4
+print(c+d)
+#Implict type conversion
+e=5
+f=5.5
+print(e+f)
+
+from math import *
+#*- import everything that's inside maths
+print(sqrt(100))
 # name=input("your name: ")
 # age=input('Your age: ')
 # print('Your name is '+ name + ' Your age is ' + age)
