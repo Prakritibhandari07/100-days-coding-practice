@@ -1,3 +1,5 @@
+#operations in tuple
+
 countries=("Nepal","India","China")
 countries2=("Bhutan","Japan","Korea")
 SouthEastAsia=countries+countries2
