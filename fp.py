@@ -9,8 +9,6 @@
 # # """I don't like you"""
 # print("hi",7,"prakriti",sep="...",end="009\n")
 # print("harry")
-
-
 #Building a basic calculator
 
 # num1=int(input("Enter first number: "))
