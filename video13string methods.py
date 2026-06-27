@@ -1,3 +1,5 @@
+#string
+
 a="!!!Prakriti !!!!!!!!"
 print(len(a))
 print(a)
