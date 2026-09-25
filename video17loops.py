@@ -1,3 +1,4 @@
+
 name="Pranil"
 for i in name:
     print(i)
