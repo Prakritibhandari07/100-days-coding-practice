@@ -1,5 +1,4 @@
 //Decorators
-
 #Decorators are a powerful and flexible feature 
 #in Python tha can be used to add functinality to
 #functions and methods without modifying their source code.
