@@ -1,3 +1,4 @@
+
 f=open('myfile.txt','r')
 i=0
 while True:
